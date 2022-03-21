@@ -23,4 +23,3 @@ Everything works absolutely perfectly for this hackintosh build.
 ### Learn more about Vanilla Hackintosh
 
 
-You can read more about this, on my blog: https://sdet.ro/blog/tag/hackintosh/
